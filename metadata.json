@@ -1,0 +1,6 @@
+{
+  "name": "React Beginners Slab 1",
+  "description": "Text Translator with RapidAPI/Gemini, Random String Generator with React Hooks, and Client-Side Routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
